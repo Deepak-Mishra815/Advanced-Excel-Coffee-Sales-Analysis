@@ -56,4 +56,4 @@ The following Excel techniques were used to transform and analyze the data:
 ## Files
 - [Coffee Sales Analysis](https://1drv.ms/x/c/2e743efd5b1ab628/EcfgAVT4hD1Bsp4YgQKipawBdGaDkdG2aUB9mqIBvpbGnQ?e=xQfSI9): The Excel file containing the project data and analysis. (Click the link to view and download the file)
 
-**Note:** This file is approximately 72 MB and may take some time to load.
+**Note:** This file is approximately 72 MB and may take 3-4 minutes time to load (Apology for inconvenience)
