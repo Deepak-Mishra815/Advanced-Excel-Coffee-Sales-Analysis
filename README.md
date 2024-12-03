@@ -54,4 +54,6 @@ The following Excel techniques were used to transform and analyze the data:
 - Dynamic dashboard features for enhanced data exploration.
 
 ## Files
-- [Coffee Sales Analysis](https://docs.google.com/spreadsheets/d/1FLnSNkPchN2UK5Xjdd7XswQ1_3691P0g/edit?usp=sharing&ouid=104322136874318048739&rtpof=true&sd=true): The Excel file containing the project data and analysis. (Click the link to view and download the file)
+- [Coffee Sales Analysis](https://1drv.ms/x/c/2e743efd5b1ab628/EcfgAVT4hD1Bsp4YgQKipawBdGaDkdG2aUB9mqIBvpbGnQ?e=xQfSI9): The Excel file containing the project data and analysis. (Click the link to view and download the file)
+
+**Note:** This file is approximately 72 MB and may take some time to load.
